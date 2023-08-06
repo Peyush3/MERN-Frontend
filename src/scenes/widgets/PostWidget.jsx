@@ -23,7 +23,7 @@ import {
     picturePath,
     userPicturePath,
     likes,
-    comments,
+    comments
   }) => {
     const [isComments, setIsComments] = useState(false);
     const [comment , setComment] = useState("");
